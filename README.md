@@ -1,0 +1,2 @@
+# bless-wordcloud-background
+利用兔年吉祥話以及不同的遮罩和背景圖來生成2023兔年賀卡的實作
